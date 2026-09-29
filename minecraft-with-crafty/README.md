@@ -2,6 +2,8 @@
 
 The Unraid Harbour Adventure world from [my video about setting up Minecraft with Crafty on Unraid](https://youtu.be/YFiJ3DsiF68), made for the official Uncast channel.
 
+[Read the written guide: Set up a Minecraft Server on Unraid with Crafty 4](https://gist.github.com/SpaceinvaderOne/28bd93bfe0f31bb6acc4a8e2e8df780a)
+
 This world is just a bit of fun. I made it for the video to show how you can upload a world into Crafty, and thought an Unraid themed town would be a fun way to do it.
 
 I've hardly played Minecraft myself, so expect rough edges and things that don't quite work. Have a wander around, look at the buildings and try the little puzzles if you fancy it. I'm sharing it as it is, and I'm not planning to maintain it or fix the puzzles and other bits that might be broken.
