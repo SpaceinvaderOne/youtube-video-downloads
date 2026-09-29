@@ -1,10 +1,10 @@
 # Minecraft on Unraid with Crafty
 
-The Unraid Harbour Adventure world from my video about running a Minecraft server with Crafty on Unraid.
+The Unraid Harbour Adventure world from [my video about setting up Minecraft with Crafty on Unraid](https://youtu.be/YFiJ3DsiF68), made for the official Uncast channel.
 
-I've hardly played Minecraft myself, but I thought it'd be fun to make an Unraid themed world for the video. There's a Jellyfin cinema and a Docker whale, and you can have a look around the server racks inside Unraid HQ.
+This world is just a bit of fun. I made it for the video to show how you can upload a world into Crafty, and thought an Unraid themed town would be a fun way to do it.
 
-You can explore freely or try the four little puzzles. They're optional. Friends share the same mission progress, then head back to HQ for the finale.
+I've hardly played Minecraft myself, so expect rough edges and things that don't quite work. Have a wander around, look at the buildings and try the little puzzles if you fancy it. I'm sharing it as it is, and I'm not planning to maintain it or fix the puzzles and other bits that might be broken.
 
 ## Download the world
 
@@ -46,7 +46,5 @@ Right-click the small grey buttons to use them. The coloured blocks above them a
 At the welcome plaza, the button below the orange marker starts the shared mission and gives you a field guide. Select the book in your hotbar and right-click to read it. The blue marked board gives you another copy.
 
 You can complete the challenges in any order. The guide explains where to find each one, and whenever you finish a task the chat messages show what still needs doing so you can choose where to head next.
-
-This is a little world made for the video, so you might still find rough edges. The latest download has the corrected cinema lettering, the first spawn fix and clearer instructions. Those instruction changes have passed file checks but haven't had a final visual check in the game yet.
 
 [Back to all video downloads](../)
