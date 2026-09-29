@@ -1,6 +1,6 @@
 # YouTube video downloads
 
-Downloads and supporting files for my Spaceinvader One YouTube tutorials. Each video has its own folder.
+Downloads and supporting files for my YouTube tutorials. Each video has its own folder.
 
 I wanted somewhere to keep the files used in the videos so you can download them and follow along, without having to look through my other projects to find them.
 
